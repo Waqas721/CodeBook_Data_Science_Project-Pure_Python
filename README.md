@@ -1,6 +1,6 @@
-# 📘 CodeBook Data Science Internship – Pure Python Project (Coders of Karachi)
+# 📘 CodeBook Data Science Project – Pure Python Project 
 
-This repository contains the complete solution for the **CodeBook Data Science Internship Project**, where all tasks are performed using **pure Python** (no pandas, NumPy, or external libraries).
+This repository contains the complete solution for the **CodeBook Data Science Project**, where all tasks are performed using **pure Python** (no pandas, NumPy, or external libraries).
 
 You will work with social network data, clean it, structure it, and implement intelligent recommendation features like **People You May Know** and **Pages You May Like**.
 
